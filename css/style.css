@@ -1015,7 +1015,11 @@ footer.copyright a{
 }
 
 
-
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #F3CC1E; /* Green */
+}
 
 
 
